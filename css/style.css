@@ -45,6 +45,10 @@ h1{
     background-repeat: no-repeat;
     background-position: left;
 }
+.exp-header{
+    width: 22%;
+    margin: 0 auto;
+}
 .experience-item{
     box-shadow: 10px 10px 40px;
     width: 40%;
